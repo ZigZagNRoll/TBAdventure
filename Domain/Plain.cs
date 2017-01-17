@@ -10,8 +10,6 @@ namespace TBA.BL.Domain
     {
         public int PlainNumber { get; set; }
         public string PlainName { get; set; }
-        public int  Height { get; set; }
-        public int Width { get; set; }
         public string Text { get; set; }
         public ICollection<Room> Rooms { get; set; }
     }
