@@ -4,3 +4,6 @@ c:\users\lukas\documents\visual studio 2015\Projects\TBAdventure\TBAdventure\bin
 c:\users\lukas\documents\visual studio 2015\Projects\TBAdventure\TBAdventure\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
 c:\users\lukas\documents\visual studio 2015\Projects\TBAdventure\TBAdventure\obj\Debug\TBA.UI.CA.exe
 c:\users\lukas\documents\visual studio 2015\Projects\TBAdventure\TBAdventure\obj\Debug\TBA.UI.CA.pdb
+C:\Users\Lukas\Source\Repos\TBAdventure\TBAdventure\bin\Debug\TBA.UI.CA.exe.config
+C:\Users\Lukas\Source\Repos\TBAdventure\TBAdventure\obj\Debug\TBA.UI.CA.exe
+C:\Users\Lukas\Source\Repos\TBAdventure\TBAdventure\obj\Debug\TBA.UI.CA.pdb
