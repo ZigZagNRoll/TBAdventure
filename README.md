@@ -1,2 +1,2 @@
 # TBAdventure
-An attempt at an textbased videogame
+An attempt at a textbased videogame
