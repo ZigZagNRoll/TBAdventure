@@ -1,0 +1,2 @@
+c:\users\lukas\documents\visual studio 2015\Projects\TBAdventure\TBAdventure\bin\Debug\TBAdventure.exe.config
+c:\users\lukas\documents\visual studio 2015\Projects\TBAdventure\TBAdventure\bin\Debug\TBA.UI.CA.exe.config
