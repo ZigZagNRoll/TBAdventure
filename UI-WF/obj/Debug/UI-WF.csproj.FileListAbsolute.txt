@@ -1,0 +1,9 @@
+C:\Users\Lukas\Source\Repos\TBAdventure\UI-WF\bin\Debug\UI-WF.exe.config
+C:\Users\Lukas\Source\Repos\TBAdventure\UI-WF\bin\Debug\UI-WF.exe
+C:\Users\Lukas\Source\Repos\TBAdventure\UI-WF\bin\Debug\UI-WF.pdb
+C:\Users\Lukas\Source\Repos\TBAdventure\UI-WF\obj\Debug\UI-WF.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\Source\Repos\TBAdventure\UI-WF\obj\Debug\UI_WF.Form1.resources
+C:\Users\Lukas\Source\Repos\TBAdventure\UI-WF\obj\Debug\UI_WF.Properties.Resources.resources
+C:\Users\Lukas\Source\Repos\TBAdventure\UI-WF\obj\Debug\UI-WF.csproj.GenerateResource.Cache
+C:\Users\Lukas\Source\Repos\TBAdventure\UI-WF\obj\Debug\UI-WF.exe
+C:\Users\Lukas\Source\Repos\TBAdventure\UI-WF\obj\Debug\UI-WF.pdb
