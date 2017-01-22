@@ -19,16 +19,33 @@ namespace UI_WF
 
         private void btnCreateWorld_Click(object sender, EventArgs e)
         {
-            Button dynamicbutton = new Button();
-            dynamicbutton.Click += new System.EventHandler(Room_Click);
-            dynamicbutton.Text = "Een kamer";
-            dynamicbutton.Visible = true;
-            dynamicbutton.Height = 25;
-            dynamicbutton.Width = 30;
-            dynamicbutton.Font = new Font("Lucida Console", 16);
-            dynamicbutton.Show();
-            dynamicbutton.Parent = panel1;
-            MessageBox.Show(panel1.Controls.Count.ToString());
+
+            int intHeight =  Int32.Parse(txtboxHeight.Text);
+            int intWidth = Int32.Parse(txtboxWidth.Text);
+            tblLayPanel.ColumnCount = intWidth;
+            tblLayPanel.RowCount = intHeight;
+            tblLayPanel.Refresh();
+
+            for (int x = 0; x < intWidth; x++)
+            {
+                for (int y = 0; y < intHeight; y++)
+                {
+                    Button dynamicbutton = new Button();
+                    dynamicbutton.Click += new System.EventHandler(Room_Click);
+                    dynamicbutton.Text = "L";
+                    dynamicbutton.Visible = true;
+                    //dynamicbutton.Height = 25;
+                    //dynamicbutton.Width = 30;
+                    dynamicbutton.Font = new Font("Lucida Console", 4);
+                    dynamicbutton.Parent = tblLayPanel;
+                    tblLayPanel.SetColumn(dynamicbutton, x);
+                    tblLayPanel.SetRow(dynamicbutton, y);
+                    dynamicbutton.Anchor = AnchorStyles.Top;
+                    dynamicbutton.Show();
+                    //MessageBox.Show(tblLayPanel.Controls.Count.ToString());
+                }
+            }
+            
 
         }
 
